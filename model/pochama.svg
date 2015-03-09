@@ -100,11 +100,11 @@
       <stop
          id="stop11929"
          offset="0"
-         style="stop-color:#0080ff;stop-opacity:1" />
+         style="stop-color:#66ffff;stop-opacity:1" />
       <stop
          id="stop11931"
          offset="1"
-         style="stop-color:#0080ff;stop-opacity:1" />
+         style="stop-color:#66ffff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -158,11 +158,11 @@
        inkscape:collect="always"
        id="BlueDark">
       <stop
-         style="stop-color:#0000ff;stop-opacity:1"
+         style="stop-color:#0033ff;stop-opacity:1"
          offset="0"
          id="stop11877" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:1"
+         style="stop-color:#0033ff;stop-opacity:1"
          offset="1"
          id="stop11879" />
     </linearGradient>
@@ -1887,10 +1887,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98793103"
-     inkscape:cx="290"
-     inkscape:cy="290"
+     inkscape:cx="185.2356"
+     inkscape:cy="330.48866"
      inkscape:document-units="px"
-     inkscape:current-layer="g5475"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
      gridtolerance="10000"
@@ -1915,7 +1915,7 @@
      inkscape:window-width="1364"
      inkscape:window-height="747"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="19"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
